@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Kamishibai_Example' do
+  pod 'Kamishibai', :path => '../'
+
+  target 'Kamishibai_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

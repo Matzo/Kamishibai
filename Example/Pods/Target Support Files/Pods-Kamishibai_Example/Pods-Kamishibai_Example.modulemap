@@ -1,0 +1,6 @@
+framework module Pods_Kamishibai_Example {
+  umbrella header "Pods-Kamishibai_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

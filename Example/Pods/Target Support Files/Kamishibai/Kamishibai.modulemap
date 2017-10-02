@@ -1,0 +1,6 @@
+framework module Kamishibai {
+  umbrella header "Kamishibai-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Kamishibai (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Kamishibai (from `../`)
+
+EXTERNAL SOURCES:
+  Kamishibai:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Kamishibai: 1486b69cfe4f536efdf2afd97eeb4d1c2d68ef37
+
+PODFILE CHECKSUM: 64fe81f6ef8cda5dd3325c2c66e75dbfab546e37
+
+COCOAPODS: 1.3.1
