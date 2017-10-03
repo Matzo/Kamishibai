@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/Matzo/Kamishibai'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ksk.matsuo@gmail.com' => 'ksk.matsuo@gmail.com' }
-  s.source           = { :git => 'https://github.com/ksk.matsuo@gmail.com/Kamishibai.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Matzo/Kamishibai.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/ksk_matsuo'
 
   s.ios.deployment_target = '9.0'
