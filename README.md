@@ -14,6 +14,8 @@ Kamishibai makes easy to create long tutorial.
 - Focus with animation where you want
 - Support custom guide view
 
+![sample](Screenshots/Kamishibai1.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
