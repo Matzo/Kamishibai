@@ -8,13 +8,14 @@
 Kamishibai makes easy to create long tutorial.
 
 ## Features
+
+![sample](Screenshots/Kamishibai1.gif)
+
 - Manage progress of tutorial
 - Support presenting transitioning of UIViewController
 - Support push/pop transitioning of NavigationController
 - Focus with animation where you want
 - Support custom guide view
-
-![sample](Screenshots/Kamishibai1.gif)
 
 ## Example
 

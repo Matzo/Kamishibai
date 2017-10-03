@@ -9,34 +9,22 @@
 Pod::Spec.new do |s|
   s.name             = 'Kamishibai'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Kamishibai.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
+  s.summary          = 'Kamishibai makes easy to create long tutorial.'
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    Manage progress of tutorial
+    Support presenting transitioning of UIViewController
+    Support push/pop transitioning of NavigationController
+    Focus with animation where you want
+    Support custom guide view
                        DESC
 
-  s.homepage         = 'https://github.com/ksk.matsuo@gmail.com/Kamishibai'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/Matzo/Kamishibai'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ksk.matsuo@gmail.com' => 'ksk.matsuo@gmail.com' }
   s.source           = { :git => 'https://github.com/ksk.matsuo@gmail.com/Kamishibai.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/ksk_matsuo'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'Kamishibai/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'Kamishibai' => ['Kamishibai/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
