@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/Kamishibai.svg?style=flat)](http://cocoapods.org/pods/Kamishibai)
 [![License](https://img.shields.io/cocoapods/l/Kamishibai.svg?style=flat)](http://cocoapods.org/pods/Kamishibai)
 [![Platform](https://img.shields.io/cocoapods/p/Kamishibai.svg?style=flat)](http://cocoapods.org/pods/Kamishibai)
+![Swift](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)
 
 Kamishibai makes easy to create long tutorial.
 
