@@ -22,7 +22,7 @@ Kamishibai makes easy to create long tutorial.
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-```
+``` swift
 // create Kamishibai instance
 let kamishibai = Kamishibai(initialViewController: self)
 
