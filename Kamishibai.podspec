@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Kamishibai'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Kamishibai makes easy to create long tutorial.'
   s.description      = <<-DESC
     Manage progress of tutorial
