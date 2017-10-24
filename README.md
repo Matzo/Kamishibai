@@ -51,12 +51,23 @@ kamishibai.startStory()
 
 ## Installation
 
+**Cocoapods**
+
 Kamishibai is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
 pod "Kamishibai"
 ```
+
+**Carthage**
+
+To integrate into your Xcode project using Carthage, specify it in your Cartfile:
+
+```ruby
+github "Matzo/Kamishibai"
+```
+
 
 ## Author
 
